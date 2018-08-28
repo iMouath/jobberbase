@@ -7,21 +7,21 @@
 // local
 $__instances['local'] = array(
 	// The prefix should be a unique part of the url (not including protocol name or auth info; see below).
-	'prefix' => 'jobberbase.local',
+	'prefix' => 'local',
 	// mysql credentials
 	'db_host' => 'localhost',
 	'db_port' => 3306,
-	'db_user' => 'root',
-	'db_password' => 'root',
+	'db_user' => 'phpmyadmin',
+	'db_password' => '123456',
 	'db_name' => 'jobberbase',
 	'db_prefix' => '',
 	// your site's full url
-	'app_url' => 'http://jobberbase.local/',
+	'app_url' => 'http://localhost/sites/jobberbase_recaptcha/public/',
 	// language to use
 	'lang_code' => 'en',
 	// error reporting
 	'ini_error_reporting' => E_ALL,
-	'ini_display_errors' => 'On',
+	'ini_display_errors' => 'Off',
 	// environment setting 1 (use 'local' for localhost/testing OR 'online' for live, production environment)
 	'location' => 'local',
 	// environment setting 2 (use 'dev' together with 'local' in the previous setting OR 'prod' with 'online')
