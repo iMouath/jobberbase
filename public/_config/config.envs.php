@@ -21,7 +21,7 @@ $__instances['local'] = array(
 	'lang_code' => 'en',
 	// error reporting
 	'ini_error_reporting' => E_ALL,
-	'ini_display_errors' => 'On',
+	'ini_display_errors' => 'Off',
 	// environment setting 1 (use 'local' for localhost/testing OR 'online' for live, production environment)
 	'location' => 'local',
 	// environment setting 2 (use 'dev' together with 'local' in the previous setting OR 'prod' with 'online')
