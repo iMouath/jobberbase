@@ -7,6 +7,10 @@ For comparison, Jobberbase is for job sites what WordPress is for blogs.
 
 Since launch, Jobberbase was downloaded more than 100,000 times.
 
+Changelog
+==========
+* Upgraded ReCaptcha to V2
+* Compatibility with PHP 7
 
 ### Demo
 
